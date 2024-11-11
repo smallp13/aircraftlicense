@@ -1,3 +1,5 @@
+-- why do yoiu think its empty
+
 local isInAircraft = false
 
 Citizen.CreateThread(function()
